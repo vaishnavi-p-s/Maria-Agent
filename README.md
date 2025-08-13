@@ -29,12 +29,14 @@ Maria follows a structured call flow to ensure clarity and compliance:
 
 ---
 
-## 📸 Preview
+## 🎥 Demo Preview
 
-![Maria in Action](https://vapi.ai/assets/images/assistant-demo.png)
+### Maria Virtual Assistant
 
-*Maria engaging in a simulated debt collection call.*
-
+<video width="400" controls>
+  <source src="demo/Maria_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## 🔗 Get Started
