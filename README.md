@@ -33,10 +33,8 @@ Maria follows a structured call flow to ensure clarity and compliance:
 
 ### Maria Virtual Assistant
 
-<video width="400" controls>
-  <source src="demo/Maria_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Maria Demo](demo/Maria_demo.mp4)
+
 ---
 
 ## 🔗 Get Started
