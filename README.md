@@ -33,7 +33,8 @@ Maria follows a structured call flow to ensure clarity and compliance:
 
 ### Maria Virtual Assistant
 
-[Click here to download Maria Demo](demo/Maria_demo.mp4)
+[Download Maria Demo](https://github.com/vaishnavi-ps/Maria-Agent/raw/main/demo/Maria_demo.mp4)
+
 
 ---
 
